@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Javier Tintaya Cortez
+# 👋 Hi, I’m Javier Tintaya Cortez
 - 👀 I am interested in personal development and professional growth.
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ... Mercado Libre
