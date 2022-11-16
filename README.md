@@ -1,9 +1,9 @@
 # 👋 Hola, soy Javier Tintaya Cortez
-# 💫 About Me:
+# 💫 Sobre mi:
 Me gusta la programacion web tanto como conocer nuevos lugares. Descubrir que puedo conocer mas lugares, asi como lenguajes me motiva a seguir aprendiendo.
 
 
-## 🌐 Redes:
+# 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-tintaya-cortez-a70817235) 
 
 # 💻 Tech Stack:
