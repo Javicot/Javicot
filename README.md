@@ -1,6 +1,6 @@
 # 👋 Hola, soy Javier Tintaya Cortez
 # 💫 Sobre mi:
-Me gusta la programacion web tanto como conocer nuevos lugares. Descubrir que puedo conocer mas sitios, asi como lenguajes, me motiva a seguir aprendiendo.
+Me gusta la programacion web tanto como conocer nuevos lugares. Descubrir que puedo conocer mas sitios, asi como lenguajes, me motiva a seguir aprendiendo. Tambien me gusta cocinar; el mejor platillo que puedo hacer es el aji de gallina peruano. <3
 
 
 # 🌐 Redes:
