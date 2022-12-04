@@ -18,7 +18,6 @@ Tambien me gusta ayudar haciendo labor social a albergues o voluntariados.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Javicot&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
 <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" >
