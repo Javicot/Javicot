@@ -3,7 +3,7 @@
 Me gusta la programacion web tanto como conocer nuevos lugares. Descubrir que puedo conocer mas sitios, asi como lenguajes, me motiva a seguir aprendiendo. Tambien me gusta cocinar; el mejor platillo que puedo hacer es el aji de gallina peruano. <3
 Tambien me gusta ayudar haciendo labor social a albergues o voluntariados.
 
-
+---
 # 🌐 Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/javier-tintaya-cortez-a70817235) 
 
