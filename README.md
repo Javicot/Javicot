@@ -36,9 +36,6 @@ Tambien me gusta ayudar haciendo labor social a albergues o voluntariados.
 ---
 ---
 ---
-
----
-
 ---
 
 ---
